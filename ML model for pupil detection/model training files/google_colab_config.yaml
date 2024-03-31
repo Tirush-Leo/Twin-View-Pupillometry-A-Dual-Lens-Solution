@@ -1,0 +1,10 @@
+
+path: '/content/gdrive/My Drive/yolov8' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: pupil
+  1: closed_eye
+  2: upset_eye
