@@ -1,0 +1,3 @@
+pupil
+closed_eye
+upset_eye
