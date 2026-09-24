@@ -79,7 +79,7 @@ The prototype integrates:
 This design enables bilateral pupil observation within a single system.
 
 <p align="center">
-  <img src="assets/device/prototype.png" width="75%" alt="Twin-View Pupillometry prototype">
+  <img src="assets/device/prototype.jpg" width="50%" alt="Twin-View Pupillometry prototype">
 </p>
 
 <p align="center">
@@ -93,10 +93,10 @@ This design enables bilateral pupil observation within a single system.
 The exploded-view animation illustrates the arrangement of the mechanical, optical, and imaging components used in the prototype.
 
 <p align="center">
-  <img src="assets/device/exploded_view.gif" width="85%" alt="Exploded view of Twin-View Pupillometry prototype">
+  <img src="assets/device/exploded_view.png" width="50%" alt="Exploded view of Twin-View Pupillometry prototype">
 </p>
 
-🎥 [View Full Exploded-View Animation](assets/videos/exploded_view.mp4)
+🎥 [View Full Exploded-View Animation](https://drive.google.com/file/d/10HEfJpaIp2rwB7KXBSMsBtV4VNG6oRbd/view?usp=sharing)
 
 ---
 
@@ -155,8 +155,7 @@ Measurement
 ```
 
 <p align="center">
-  <img src="assets/detection/pupil_detection_1.png" width="45%" alt="Pupil detection example 1">
-  <img src="assets/detection/pupil_detection_2.png" width="45%" alt="Pupil detection example 2">
+  <img src="assets/detection/pupil_detection_1.png" width="55%" alt="Pupil detection example 1">
 </p>
 
 ---
@@ -166,7 +165,7 @@ Measurement
 The following figure shows the training history recorded during development of the pupil-detection model.
 
 <p align="center">
-  <img src="assets/detection/training_results.png" width="95%" alt="YOLOv8 pupil detection training results">
+  <img src="Pupil detection/results.png" width="95%" alt="YOLOv8 pupil detection training results">
 </p>
 
 > The figure is included as development-training history and is not presented as a standalone final performance benchmark.
@@ -209,7 +208,7 @@ The interface provides:
 
 The following animation illustrates the intended monitoring workflow of the Twin-View Pupillometry system.
 
-🎥 [Watch Concept Demonstration](assets/videos/concept_demo.mp4)
+🎥 [Watch Concept Demonstration](https://drive.google.com/file/d/12cWkec3Nkm39ln3wOopusssegj5F9W9N/view?usp=sharing)
 
 > This animation is a conceptual representation of the proposed workflow and does not represent a validated clinical deployment.
 
